@@ -1,0 +1,16 @@
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\ClassLibraryTest.dll
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\ClassLibraryTest.pdb
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\ClassLibraryPractice.dll
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\ClassLibraryPractice.pdb
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\aguil\source\repos\ClassLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\aguil\source\repos\ClassLibraryTest\obj\Debug\ClassLibraryTest.csproj.AssemblyReference.cache
+C:\Users\aguil\source\repos\ClassLibraryTest\obj\Debug\ClassLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\ClassLibraryTest\obj\Debug\ClassLibraryTest.csproj.CopyComplete
+C:\Users\aguil\source\repos\ClassLibraryTest\obj\Debug\ClassLibraryTest.dll
+C:\Users\aguil\source\repos\ClassLibraryTest\obj\Debug\ClassLibraryTest.pdb

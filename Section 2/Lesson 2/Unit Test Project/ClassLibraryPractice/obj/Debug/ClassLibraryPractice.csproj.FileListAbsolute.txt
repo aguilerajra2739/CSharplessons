@@ -1,0 +1,5 @@
+C:\Users\aguil\source\repos\ClassLibraryPractice\bin\Debug\ClassLibraryPractice.dll
+C:\Users\aguil\source\repos\ClassLibraryPractice\bin\Debug\ClassLibraryPractice.pdb
+C:\Users\aguil\source\repos\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.dll
+C:\Users\aguil\source\repos\ClassLibraryPractice\obj\Debug\ClassLibraryPractice.pdb
